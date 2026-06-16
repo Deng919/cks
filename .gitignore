@@ -1,0 +1,35 @@
+# Keil MDK compiled objects and listings
+Objects/
+Listings/
+
+# User-specific layout files (debugger settings, active tabs, screen layout)
+*.uvguix.*
+*.uvguix
+
+# Temporary compilation and dependency files
+*.dep
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.build_log.htm
+*.map
+*.lst
+*.elf
+*.hex
+*.bin
+*.sct
+
+# Backup files
+*.bak
+*.bak*
+*.bak1
+*.bak2
+*.bak3
+*.bak4
+
+# OS generated files
+.DS_Store
+Thumbs.db
